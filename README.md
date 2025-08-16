@@ -190,8 +190,8 @@ x-rapidapi-key: YOUR_API_KEY
 - Type guards for API data
 - Error boundaries for graceful fallback
 
-## 📸 Screenshots (Optional)
-Coming soon...
+## 📸 Screenshots
+![Screenshot_16-8-2025_195622_localhost](https://github.com/user-attachments/assets/2f69e2e2-04f4-49fa-89ae-394c067834cd)
 
 ## 🤝 Contributing
 - Contributions are welcome!
